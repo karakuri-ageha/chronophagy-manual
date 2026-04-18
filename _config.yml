@@ -1,0 +1,5 @@
+title: Chronophagy Manual
+description: 「時は金なり」から「時はカロリーなり」への革命
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
